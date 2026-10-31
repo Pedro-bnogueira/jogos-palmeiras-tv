@@ -1,0 +1,167 @@
+{
+ "time": "Palmeiras",
+ "gerado": "2026-10-31T18:02:42-03:00",
+ "jogos": [
+  {
+   "data": "2026-11-01",
+   "inicio": "2026-11-01T16:00:00-03:00",
+   "mandante": "Palmeiras",
+   "visitante": "Vasco",
+   "campeonato": "Copa do Brasil",
+   "fase": "Semifinal",
+   "estadio": "Nubank Parque",
+   "canais": [
+    {
+     "nome": "Globo",
+     "app": "com.globo.globotv",
+     "link": "https://globoplay.globo.com/v/14321336/"
+    },
+    {
+     "nome": "SporTV",
+     "app": "com.globo.globotv",
+     "link": "https://globoplay.globo.com/v/11869976/"
+    },
+    {
+     "nome": "Premiere",
+     "app": "com.globo.globotv",
+     "link": "https://globoplay.globo.com/v/6942200/"
+    },
+    {
+     "nome": "Prime Video",
+     "app": "com.amazon.amazonvideo.livingroom"
+    },
+    {
+     "nome": "ge tv (YouTube)",
+     "app": "com.google.android.youtube.tv"
+    }
+   ]
+  },
+  {
+   "data": "2026-11-05",
+   "inicio": "2026-11-05T19:30:00-03:00",
+   "mandante": "Palmeiras",
+   "visitante": "Remo",
+   "campeonato": "Campeonato Brasileiro",
+   "fase": "Fase única",
+   "estadio": "Nubank Parque",
+   "canais": [
+    {
+     "nome": "Premiere",
+     "app": "com.globo.globotv"
+    }
+   ]
+  },
+  {
+   "data": "2026-11-08",
+   "inicio": "2026-11-08T17:00:00-03:00",
+   "mandante": "Vasco",
+   "visitante": "Palmeiras",
+   "campeonato": "Copa do Brasil",
+   "fase": "Semifinal",
+   "estadio": "São Januário",
+   "canais": [
+    {
+     "nome": "Globo",
+     "app": "com.globo.globotv"
+    },
+    {
+     "nome": "SporTV",
+     "app": "com.globo.globotv"
+    },
+    {
+     "nome": "Premiere",
+     "app": "com.globo.globotv"
+    },
+    {
+     "nome": "Prime Video",
+     "app": "com.amazon.amazonvideo.livingroom"
+    },
+    {
+     "nome": "ge tv (YouTube)",
+     "app": "com.google.android.youtube.tv"
+    }
+   ]
+  },
+  {
+   "data": "2026-11-18",
+   "inicio": "2026-11-18T20:30:00-03:00",
+   "mandante": "Cruzeiro",
+   "visitante": "Palmeiras",
+   "campeonato": "Campeonato Brasileiro",
+   "fase": "Fase única",
+   "estadio": "Mineirão",
+   "canais": [
+    {
+     "nome": "Premiere",
+     "app": "com.globo.globotv"
+    }
+   ]
+  },
+  {
+   "data": "2026-11-21",
+   "inicio": "2026-11-21T16:30:00-03:00",
+   "mandante": "Palmeiras",
+   "visitante": "Flamengo",
+   "campeonato": "Campeonato Brasileiro",
+   "fase": "Fase única",
+   "estadio": "Nubank Parque",
+   "canais": [
+    {
+     "nome": "Globo",
+     "app": "com.globo.globotv"
+    },
+    {
+     "nome": "Premiere",
+     "app": "com.globo.globotv"
+    },
+    {
+     "nome": "ge tv (YouTube)",
+     "app": "com.google.android.youtube.tv"
+    }
+   ]
+  },
+  {
+   "data": "2026-11-28",
+   "inicio": "2026-11-28T17:00:00-03:00",
+   "mandante": "Palmeiras",
+   "visitante": "Estudiantes",
+   "campeonato": "Taça Conmebol Libertadores",
+   "fase": "Final",
+   "estadio": "Centenario",
+   "canais": [
+    {
+     "nome": "Globo",
+     "app": "com.globo.globotv"
+    },
+    {
+     "nome": "Paramount+",
+     "app": "com.cbs.ca"
+    },
+    {
+     "nome": "ge tv (YouTube)",
+     "app": "com.google.android.youtube.tv"
+    }
+   ]
+  },
+  {
+   "data": "2026-11-29",
+   "inicio": null,
+   "mandante": "Chapecoense",
+   "visitante": "Palmeiras",
+   "campeonato": "Campeonato Brasileiro",
+   "fase": "Fase única",
+   "estadio": null,
+   "canais": []
+  },
+  {
+   "data": "2026-12-02",
+   "inicio": "2026-12-02T17:00:00-03:00",
+   "mandante": "Palmeiras",
+   "visitante": "Coritiba",
+   "campeonato": "Campeonato Brasileiro",
+   "fase": "Fase única",
+   "estadio": null,
+   "canais": []
+  }
+ ]
+}
