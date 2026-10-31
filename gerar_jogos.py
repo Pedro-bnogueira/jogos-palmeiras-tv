@@ -19,7 +19,7 @@ UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 14_0) AppleWebKit/537.36 (KHTML, li
 
 GLOBOPLAY = "com.globo.globotv"
 # Canal do ge -> (nome na tela, app, tipo de vídeo do ge com o link ao vivo no Globoplay). Ordem = preferência.
-# Só entram serviços que os avós assinam; os outros (Disney+, Cartola...) ficam de fora.
+# Só entram serviços que os avós assinam; os outros (Disney+, ge tv, Cartola...) ficam de fora.
 CANAIS = {
     "globo": ("Globo", GLOBOPLAY, "tvg"),
     "globoplay": ("Globo", GLOBOPLAY, "tvg"),
@@ -28,9 +28,8 @@ CANAIS = {
     "prime vídeo": ("Prime Video", "com.amazon.amazonvideo.livingroom", None),
     "prime video": ("Prime Video", "com.amazon.amazonvideo.livingroom", None),
     "paramount+": ("Paramount+", "com.cbs.ca", None),
-    "ge tv": ("ge tv (YouTube)", "com.google.android.youtube.tv", None),
 }
-ORDEM = ["Globo", "SporTV", "Premiere", "Prime Video", "Paramount+", "ge tv (YouTube)"]
+ORDEM = ["Globo", "SporTV", "Premiere", "Prime Video", "Paramount+"]
 
 
 def baixar(url):
