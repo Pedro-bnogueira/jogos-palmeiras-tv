@@ -1,6 +1,6 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-10-31T18:09:34-03:00",
+ "gerado": "2026-10-31T18:17:58-03:00",
  "jogos": [
   {
    "data": "2026-11-01",
@@ -29,10 +29,6 @@
     {
      "nome": "Prime Video",
      "app": "com.amazon.amazonvideo.livingroom"
-    },
-    {
-     "nome": "ge tv (YouTube)",
-     "app": "com.google.android.youtube.tv"
     }
    ]
   },
@@ -75,10 +71,6 @@
     {
      "nome": "Prime Video",
      "app": "com.amazon.amazonvideo.livingroom"
-    },
-    {
-     "nome": "ge tv (YouTube)",
-     "app": "com.google.android.youtube.tv"
     }
    ]
   },
@@ -113,10 +105,6 @@
     {
      "nome": "Premiere",
      "app": "com.globo.globotv"
-    },
-    {
-     "nome": "ge tv (YouTube)",
-     "app": "com.google.android.youtube.tv"
     }
    ]
   },
@@ -136,10 +124,6 @@
     {
      "nome": "Paramount+",
      "app": "com.cbs.ca"
-    },
-    {
-     "nome": "ge tv (YouTube)",
-     "app": "com.google.android.youtube.tv"
     }
    ]
   },
