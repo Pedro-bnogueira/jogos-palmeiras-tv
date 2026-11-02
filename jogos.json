@@ -1,37 +1,7 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-01T13:05:45-03:00",
+ "gerado": "2026-11-01T21:48:51-03:00",
  "jogos": [
-  {
-   "data": "2026-11-01",
-   "inicio": "2026-11-01T16:00:00-03:00",
-   "mandante": "Palmeiras",
-   "visitante": "Vasco",
-   "campeonato": "Copa do Brasil",
-   "fase": "Semifinal",
-   "estadio": "Nubank Parque",
-   "canais": [
-    {
-     "nome": "Globo",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/14321336/"
-    },
-    {
-     "nome": "SporTV",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/11869976/"
-    },
-    {
-     "nome": "Premiere",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/6942200/"
-    },
-    {
-     "nome": "Prime Video",
-     "app": "com.amazon.amazonvideo.livingroom"
-    }
-   ]
-  },
   {
    "data": "2026-11-05",
    "inicio": "2026-11-05T19:30:00-03:00",
