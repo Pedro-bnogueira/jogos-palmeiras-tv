@@ -1,23 +1,7 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-05T14:27:28-03:00",
+ "gerado": "2026-11-05T22:36:10-03:00",
  "jogos": [
-  {
-   "data": "2026-11-05",
-   "inicio": "2026-11-05T19:30:00-03:00",
-   "mandante": "Palmeiras",
-   "visitante": "Remo",
-   "campeonato": "Campeonato Brasileiro",
-   "fase": "Fase única",
-   "estadio": "Nubank Parque",
-   "canais": [
-    {
-     "nome": "Premiere",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/6082049/"
-    }
-   ]
-  },
   {
    "data": "2026-11-08",
    "inicio": "2026-11-08T17:00:00-03:00",
