@@ -1,6 +1,6 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-06T13:48:17-03:00",
+ "gerado": "2026-11-06T21:57:37-03:00",
  "jogos": [
   {
    "data": "2026-11-08",
@@ -13,15 +13,18 @@
    "canais": [
     {
      "nome": "Globo",
-     "app": "com.globo.globotv"
+     "app": "com.globo.globotv",
+     "link": "https://globoplay.globo.com/v/14321336/"
     },
     {
      "nome": "SporTV",
-     "app": "com.globo.globotv"
+     "app": "com.globo.globotv",
+     "link": "https://globoplay.globo.com/v/11869976/"
     },
     {
      "nome": "Premiere",
-     "app": "com.globo.globotv"
+     "app": "com.globo.globotv",
+     "link": "https://globoplay.globo.com/v/6942200/"
     },
     {
      "nome": "Prime Video",
@@ -64,6 +67,16 @@
    ]
   },
   {
+   "data": "2026-11-24",
+   "inicio": "2026-11-24T18:00:00-03:00",
+   "mandante": "Chapecoense",
+   "visitante": "Palmeiras",
+   "campeonato": "Campeonato Brasileiro",
+   "fase": "Fase única",
+   "estadio": "Arena Condá",
+   "canais": []
+  },
+  {
    "data": "2026-11-28",
    "inicio": "2026-11-28T17:00:00-03:00",
    "mandante": "Palmeiras",
@@ -83,23 +96,13 @@
    ]
   },
   {
-   "data": "2026-11-29",
-   "inicio": null,
-   "mandante": "Chapecoense",
-   "visitante": "Palmeiras",
-   "campeonato": "Campeonato Brasileiro",
-   "fase": "Fase única",
-   "estadio": null,
-   "canais": []
-  },
-  {
    "data": "2026-12-02",
-   "inicio": "2026-12-02T17:00:00-03:00",
+   "inicio": "2026-12-02T21:30:00-03:00",
    "mandante": "Palmeiras",
    "visitante": "Coritiba",
    "campeonato": "Campeonato Brasileiro",
    "fase": "Fase única",
-   "estadio": null,
+   "estadio": "Nubank Parque",
    "canais": []
   }
  ]
