@@ -1,37 +1,7 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-08T13:01:36-03:00",
+ "gerado": "2026-11-08T21:57:43-03:00",
  "jogos": [
-  {
-   "data": "2026-11-08",
-   "inicio": "2026-11-08T17:00:00-03:00",
-   "mandante": "Vasco",
-   "visitante": "Palmeiras",
-   "campeonato": "Copa do Brasil",
-   "fase": "Semifinal",
-   "estadio": "São Januário",
-   "canais": [
-    {
-     "nome": "Globo",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/14321336/"
-    },
-    {
-     "nome": "SporTV",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/11869976/"
-    },
-    {
-     "nome": "Premiere",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/6942200/"
-    },
-    {
-     "nome": "Prime Video",
-     "app": "com.amazon.amazonvideo.livingroom"
-    }
-   ]
-  },
   {
    "data": "2026-11-18",
    "inicio": "2026-11-18T20:30:00-03:00",
