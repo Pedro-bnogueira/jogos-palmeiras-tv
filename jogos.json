@@ -1,6 +1,6 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-11T14:13:29-03:00",
+ "gerado": "2026-11-11T23:18:12-03:00",
  "jogos": [
   {
    "data": "2026-11-18",
@@ -73,6 +73,16 @@
    "campeonato": "Campeonato Brasileiro",
    "fase": "Fase única",
    "estadio": "Nubank Parque",
+   "canais": []
+  },
+  {
+   "data": "2026-12-06",
+   "inicio": "2026-12-06T17:00:00-03:00",
+   "mandante": "Grêmio",
+   "visitante": "Palmeiras",
+   "campeonato": "Copa do Brasil",
+   "fase": "Final",
+   "estadio": "Mané Garrincha",
    "canais": []
   }
  ]
