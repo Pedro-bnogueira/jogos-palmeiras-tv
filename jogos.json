@@ -1,6 +1,6 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-13T14:15:33-03:00",
+ "gerado": "2026-11-13T22:28:35-03:00",
  "jogos": [
   {
    "data": "2026-11-18",
@@ -44,7 +44,12 @@
    "campeonato": "Campeonato Brasileiro",
    "fase": "Fase única",
    "estadio": "Arena Condá",
-   "canais": []
+   "canais": [
+    {
+     "nome": "Premiere",
+     "app": "com.globo.globotv"
+    }
+   ]
   },
   {
    "data": "2026-11-28",
