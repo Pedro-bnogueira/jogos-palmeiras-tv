@@ -1,6 +1,6 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-17T15:37:53-03:00",
+ "gerado": "2026-11-17T23:56:07-03:00",
  "jogos": [
   {
    "data": "2026-11-18",
@@ -13,7 +13,8 @@
    "canais": [
     {
      "nome": "Premiere",
-     "app": "com.globo.globotv"
+     "app": "com.globo.globotv",
+     "link": "https://globoplay.globo.com/v/6942200/"
     }
    ]
   },
