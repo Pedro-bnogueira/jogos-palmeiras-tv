@@ -1,23 +1,7 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-18T15:08:49-03:00",
+ "gerado": "2026-11-18T23:37:31-03:00",
  "jogos": [
-  {
-   "data": "2026-11-18",
-   "inicio": "2026-11-18T20:30:00-03:00",
-   "mandante": "Cruzeiro",
-   "visitante": "Palmeiras",
-   "campeonato": "Campeonato Brasileiro",
-   "fase": "Fase única",
-   "estadio": "Mineirão",
-   "canais": [
-    {
-     "nome": "Premiere",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/6942200/"
-    }
-   ]
-  },
   {
    "data": "2026-11-21",
    "inicio": "2026-11-21T16:30:00-03:00",
