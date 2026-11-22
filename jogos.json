@@ -1,28 +1,7 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-21T13:49:50-03:00",
+ "gerado": "2026-11-21T22:23:05-03:00",
  "jogos": [
-  {
-   "data": "2026-11-21",
-   "inicio": "2026-11-21T16:30:00-03:00",
-   "mandante": "Palmeiras",
-   "visitante": "Flamengo",
-   "campeonato": "Campeonato Brasileiro",
-   "fase": "Fase única",
-   "estadio": "Nubank Parque",
-   "canais": [
-    {
-     "nome": "Globo",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/7018865/"
-    },
-    {
-     "nome": "Premiere",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/6942200/"
-    }
-   ]
-  },
   {
    "data": "2026-11-24",
    "inicio": "2026-11-24T18:00:00-03:00",
