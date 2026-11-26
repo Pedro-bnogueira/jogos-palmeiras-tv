@@ -1,6 +1,6 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-26T00:37:04-03:00",
+ "gerado": "2026-11-26T16:05:31-03:00",
  "jogos": [
   {
    "data": "2026-11-28",
@@ -39,7 +39,24 @@
    "campeonato": "Copa do Brasil",
    "fase": "Final",
    "estadio": "Mané Garrincha",
-   "canais": []
+   "canais": [
+    {
+     "nome": "Globo",
+     "app": "com.globo.globotv"
+    },
+    {
+     "nome": "SporTV",
+     "app": "com.globo.globotv"
+    },
+    {
+     "nome": "Premiere",
+     "app": "com.globo.globotv"
+    },
+    {
+     "nome": "Prime Video",
+     "app": "com.amazon.amazonvideo.livingroom"
+    }
+   ]
   }
  ]
 }
