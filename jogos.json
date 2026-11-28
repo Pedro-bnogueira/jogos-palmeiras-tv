@@ -1,27 +1,7 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-28T00:20:52-03:00",
+ "gerado": "2026-11-28T14:36:45-03:00",
  "jogos": [
-  {
-   "data": "2026-11-28",
-   "inicio": "2026-11-28T17:00:00-03:00",
-   "mandante": "Palmeiras",
-   "visitante": "Estudiantes",
-   "campeonato": "Taça Conmebol Libertadores",
-   "fase": "Final",
-   "estadio": "Centenario",
-   "canais": [
-    {
-     "nome": "Globo",
-     "app": "com.globo.globotv",
-     "link": "https://globoplay.globo.com/v/14321336/"
-    },
-    {
-     "nome": "Paramount+",
-     "app": "com.cbs.ca"
-    }
-   ]
-  },
   {
    "data": "2026-12-02",
    "inicio": "2026-12-02T21:30:00-03:00",
