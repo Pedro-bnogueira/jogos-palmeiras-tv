@@ -1,6 +1,6 @@
 {
  "time": "Palmeiras",
- "gerado": "2026-11-27T16:01:49-03:00",
+ "gerado": "2026-11-28T00:20:52-03:00",
  "jogos": [
   {
    "data": "2026-11-28",
@@ -13,7 +13,8 @@
    "canais": [
     {
      "nome": "Globo",
-     "app": "com.globo.globotv"
+     "app": "com.globo.globotv",
+     "link": "https://globoplay.globo.com/v/14321336/"
     },
     {
      "nome": "Paramount+",
